@@ -1,0 +1,9 @@
+objetivo: Criar um vaso de planta inteligente que visa por meio da tecnologia prolongar e proteger a vida da planta
+
+** Vaso de planta inteligente
+
+* Rega ao chegar a 25°C 
+
+* Emite luz continua a chegar a menos de -2°C
+
+https://create.arduino.cc/projecthub/sandromesquitamecatronica/over-or-cooker-temperature-control-system-7b7935?ref=user&ref_id=928386&offset=10

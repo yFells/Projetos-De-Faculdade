@@ -1,0 +1,49 @@
+Sejam as proposições: A = Carlos é argentino e B = João é bra-
+sileiro. Traduza para a linguagem natural as seguintes proposições
+simbólicas:
+
+ajAvB
+
+bJ-AAB
+
+JA>B
+
+dASB
+
+AS B
+
+f 244 B
+
+Coloque em linguagem simbólica as seguintes proposições mate-
+máticas:
+
+a) x é menor que 3 e maior que 0, ou, x não é igual a 7.
+
+b) Se x é menor que 4 e maior que 2, então x é igual a 3.
+
+€) Ou x é maior que 0, ou x é menor que 3 e y é maior que 0.
+d) x é igual a 3 se, e somente se, y for maior que 0.
+
+e) Se x é diferente de 2, então y é igual a 9 e z é maior que 3.
+
+Dadas as proposições: A = Luiz é administrador, B = Alfredo é
+bancário e C = Maria é comerciante, traduza para à linguagem
+simbólica as proposições a seguir.
+
+a) Ou Luiz é administrador ou Alfredo é bancário, mas Maria não
+é comerciante.
+
+ 
+
+ 
+
+b) Luiz não é administrador e Maria é comerciante.
+c) Se Alfredo é bancário e Maria é comerciante, então Luiz é
+administrador.
+
+d) É mentira que Luiz é administrador, que Alfredo é bancário ou
+que Maria seja comerciante.
+
+e) Luiz é administrador se, e somente se, Alfredo não é bancário e
+Maria não é comerciante.
+
